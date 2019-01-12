@@ -1,0 +1,9 @@
+This program creates buttons in a 4x4 grid to simulate sliding of a puzzle piece. One image is taken out to allow switching of images.
+The game is completed when all images are aligned correctly.
+
+Tested On:
+Windows 10 Pro
+IntelliJ Build 183.5153.38
+
+Launch:
+Use IntelliJ to launch and compile /SliderPuzzleGame/src/Grid
