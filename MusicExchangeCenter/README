@@ -1,0 +1,14 @@
+This program simulates a music center where a user can login and download songs from other computers
+
+Tested On:
+Windows 10 Pro
+IntelliJ Build 183.5153.38
+
+Launch:
+Use IntelliJ to launch and compile :
+  1. /MusicExchangeCenter/src/MusicExchangeTestProgram
+    (This test shows how many and which users are online and the available songs to download)
+  2. /MusicExchangeCenter/src/MusicExchangeTestProgram2
+    (This test shows a formatted song list and shows songs that contain a certain category)
+  3. /MusicExchangeCenter/src/MusicExchangeTestProgram3
+    (This test shows uniquely downloaded songs and popularity of songs. It also shows royalties that an artist gains per download)
