@@ -1,0 +1,9 @@
+This program creates images with a 2d grid of pixels that are either black or white.
+The program calculates the largest perimeter and if the pixels are all connected together.
+
+Tested On:
+Windows 10 Pro
+IntelliJ Build 183.5153.38
+
+Launch:
+Use IntelliJ to launch and compile /PartImage/src/PartImageTester
